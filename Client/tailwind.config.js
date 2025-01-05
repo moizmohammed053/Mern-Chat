@@ -6,6 +6,6 @@ export default {
   theme: {
     extend: {},
   },
-  lugins: [],
+  Plugins: [],
 }
 
