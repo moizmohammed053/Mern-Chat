@@ -11,7 +11,7 @@ export default function Register (){
             <button className="bg-blue-500 text-white block w-full rounded-sm p-2 ">
                 RETISTER NOW
             </button>
-        </orm>
+        </form>
         </div>
     )
 }
