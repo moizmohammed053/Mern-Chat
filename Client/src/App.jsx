@@ -1,14 +1,13 @@
 
-import './App.css'
-
+import Register from "./Register";
 function App() {
   
 
   return (
     
       
-     
-    <div className='bg-blue-50'>text</div>
+     <Register/>
+    
   )
 }
 
