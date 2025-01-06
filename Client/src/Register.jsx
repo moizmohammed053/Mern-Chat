@@ -1,7 +1,7 @@
 import {useState} from "react"
 export default function Register (){
     const [username, setUsername] = useState('');
-    const [passwor, setPassword] = useState('');
+    const [password, setPassword] = useState('');
 
     return (
         <div className="bg-blue-50 h-screen flex items-center"> 
