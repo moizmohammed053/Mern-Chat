@@ -1,4 +1,4 @@
-import {useState} from "react"
+import {useState} from "reac"
 export default function Register (){
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
