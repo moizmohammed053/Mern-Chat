@@ -10,7 +10,7 @@ export default function Register (){
             <input value={password} onChange={ev => setPassword(ev.target.value)} type="password" placeholder="password" className="block w-full rounded-sm p-2 mb-2 border"/>
             <button className="bg-blue-500 text-white block w-full rounded-sm p-2 ">
                 RETISTER Now
-            </button
+            </button>
         </form>
         </div>
     )
