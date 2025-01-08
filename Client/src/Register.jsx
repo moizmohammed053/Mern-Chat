@@ -13,5 +13,5 @@ export default function Register (){
             </button>
         </form>
         </div>
-    )
+    
 }
