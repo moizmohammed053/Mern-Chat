@@ -4,7 +4,7 @@ export default function Register (){
     const [password, setPassword] = useState('');
 
     return (
-        <div lassName="bg-blue-50 h-screen flex items-center"> 
+        <div ClassName="bg-blue-50 h-screen flex items-center"> 
         <form className="w-64 mx-auto mb-12">
             <input value={username} onChange={ev => setUsername(ev.target.value)} type="text" placeholder="username" className="block w-full rounded-sm p-2 mb-2 border" />
             <input value={password} onChange={ev => setPassword(ev.target.value)} type="password" placeholder="password" className="block w-full rounded-sm p-2 mb-2 border"/>
