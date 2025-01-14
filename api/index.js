@@ -6,4 +6,4 @@
     res.json('test ok')
  })
 
- app.listen(4040);
+ app.listen(4040)
